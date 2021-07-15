@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jagadeesh
-- 👀 I’m interested in Developing and Machine Learning
-- 🌱 I’m currently learning Data Structures
+- 👀 I’m interested in Development
 - 💞️ I’m looking to collaborate on Email at jagadeeshg650@gmail.com
 - 📫 you can reach me by email
 
